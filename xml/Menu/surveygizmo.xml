@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/surveygizmo/hook</path>
+    <page_callback>CRM_SurveyGizmo_Page_SurveyGizmo</page_callback>
+    <title>SurveyGizmo</title>
+	<access_callback>1</access_callback>
+  </item>
+</menu>
