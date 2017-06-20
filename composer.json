@@ -1,0 +1,5 @@
+{
+    "name": "australian_greens/au.org.greens.surveygizmo",
+    "type": "drupal-module",
+    "description": "Small CiviCRM extension to enable prefilling of a SurveyGizmo survey by pulling live contact data via contact ID and checksum."
+}
